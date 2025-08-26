@@ -1,4 +1,4 @@
-\# 📂 FileORG
+# 📂 FileORG
 
 
 
@@ -12,17 +12,17 @@ Our objective is to organize file \& folder such as File Sorter, Duplicate Finde
 
 
 
-\## ✨ Features
+## ✨ Features
 
 
 
-\- ✅ \*\*File Sorter\*\* – Sort your file and move to new folder such as Image, Sound, Video
+- ✅ **File Sorter** – Sort your file and move to new folder such as Image, Sound, Video
 
-\- ✅ \*\*Duplicate Finder\*\* – Find duplicate files by using Hash (MD5)
+- ✅ **Duplicate Finder** – Find duplicate files by using Hash (MD5)
 
-\- ✅ \*\*Friendly GUI\*\* – Easy to use without Command Line
+- ✅ **Friendly GUI** – Easy to use without Command Line
 
-\- 🚀 Support:
+- 🚀 Support:
 
   - Image: `.jpg`, `.jpeg`, `.png`, `.gif`
 
@@ -36,19 +36,19 @@ Our objective is to organize file \& folder such as File Sorter, Duplicate Finde
 
 
 
-\## ⚙️ Installation 
+## ⚙️ Installation 
 
 
 
-1\. Install Python 3.10+
+1. Install Python 3.10+
 
-&nbsp;	\[Download Python](https://www.python.org/downloads/)
-
-
+&nbsp;	[Download Python](https://www.python.org/downloads/)
 
 
 
-2\. git clone https://github.com/Khachonyod/FILEORG.git
+
+
+2. git clone https://github.com/Khachonyod/FILEORG.git
 
 &nbsp;	cd FileORG
 
