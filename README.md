@@ -2,7 +2,7 @@
 
 
 
-FileORG is GUI application that develop with \*\*Python + Tkinter\*\*
+FileORG is GUI application that develop with **Python + CustomTkinter**
 
 Our objective is to organize file \& folder such as File Sorter, Duplicate Finder
 
@@ -50,7 +50,7 @@ Our objective is to organize file \& folder such as File Sorter, Duplicate Finde
 
 2. git clone https://github.com/Khachonyod/FILEORG.git
 
-&nbsp;	cd FileORG
+&nbsp;	- cd FileORG
 
-&nbsp;	python fileORG.py
+&nbsp;	- python fileORG.py
 
